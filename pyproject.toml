@@ -1,0 +1,11 @@
+[project]
+name = "linebot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bedrock-agentcore>=1.1.1",
+    "bedrock-agentcore-starter-toolkit>=0.2.4",
+    "strands-agents>=1.19.0",
+]
